@@ -1,21 +1,21 @@
 
-This was another file - that I'm now editing
+I am changing this file today and will commit this change. 
 
 It was originally created on the will branch.
 
-here is some text
+/* here is some text */
 some more text
 some more text
+
 added some text into the middle which should confuse the merge
+
 some more text that i am changing now
 Hello
+
+//some more text
+
+this will cause a conflict if i also change the will branch and try to merge
 
 There were merge conflicts so I'm looking through them online
 This is a real pain in the specific case of the gui automatically generated files - which is just awful
 I've found a workaround for that. 
-
-TBH it makes more sense to do everything all on your local pc
-
-I'll also show you how you can go back
-
-blah blah blah appending some more stuff
