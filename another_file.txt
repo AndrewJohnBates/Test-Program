@@ -1,3 +1,4 @@
+
 This is another file
 
 It was originally created on the will branch.
@@ -6,3 +7,11 @@ here is some text
 some more text
 some more text
 some more text
+
+There were merge conflicts so I'm looking through them online
+This is a real pain in the specific case of the gui automatically generated files - which is just awful
+I've found a workaround for that. 
+
+TBH it makes more sense to do everything all on your local pc
+
+I'll also show you how you can go back
