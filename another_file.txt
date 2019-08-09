@@ -7,7 +7,8 @@ here is some text
 some more text
 some more text
 added some text into the middle which should confuse the merge
-some more text
+some more text that i am changing now
+Hello
 
 There were merge conflicts so I'm looking through them online
 This is a real pain in the specific case of the gui automatically generated files - which is just awful
