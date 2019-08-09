@@ -9,6 +9,8 @@ some more text
 added some text into the middle which should confuse the merge
 some more text
 
+this will cause a conflict if i also change the will branch and try to merge
+
 There were merge conflicts so I'm looking through them online
 This is a real pain in the specific case of the gui automatically generated files - which is just awful
 I've found a workaround for that. 
