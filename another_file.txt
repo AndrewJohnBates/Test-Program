@@ -8,6 +8,10 @@ some more text
 some more text
 
 added some text into the middle which should confuse the merge
+
+some more text that i am changing now
+Hello
+
 //some more text
 
 this will cause a conflict if i also change the will branch and try to merge
