@@ -1,8 +1,16 @@
-this is another file originally made on the master branch
 
-I'm now going to push both of these to github
+This is another file
 
-then I'll merge them
+It was originally created on the will branch.
+
+here is some text
+some more text
+some more text
+some more text
+
+There were merge conflicts so I'm looking through them online
+This is a real pain in the specific case of the gui automatically generated files - which is just awful
+I've found a workaround for that. 
 
 TBH it makes more sense to do everything all on your local pc
 
